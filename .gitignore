@@ -1,0 +1,5 @@
+
+dist/
+
+# Se crean automaticamente con el npm install
+node_modules/
